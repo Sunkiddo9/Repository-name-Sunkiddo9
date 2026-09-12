@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+
+<img width="2055" height="765" alt="banner" src="https://github.com/user-attachments/assets/17eeb5aa-12f1-4e4f-bf3e-6271168e41b3" />
 
 # Hi there, I'm Vikram 👋
 
