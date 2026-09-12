@@ -31,11 +31,11 @@ Algorithms, and exploring new technologies.
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_UR](https://www.linkedin.com/in/vikram-yadav-93b104324/)L">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_URL">
+<a href="[YOUR_INSTAGRAM_URL](https://www.instagram.com/mainly.vikram/?hl=en)">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
